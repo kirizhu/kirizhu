@@ -22,4 +22,4 @@ An It enthusiast and life long learner, constantly looking for new challenges an
 - 📫 How to reach me: https://www.linkedin.com/in/eddy-garcia-5b7b9a97/
 
 
-[![Explaining Tech](https://i.postimg.cc/1t86N3YY/Ska-rmavbild-2020-11-05-kl-14-09-29.png)](http://www.youtube.com/watch?v=GpN9lMbD6pw&t "Explaining Tech")
+[![Explaining Tech](https://i.postimg.cc/x8YfVsHy/Ska-rmavbild-2020-11-05-kl-14-13-15.png)](http://www.youtube.com/watch?v=GpN9lMbD6pw&t "Explaining Tech")
