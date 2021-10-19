@@ -22,7 +22,7 @@ I'm a mobile app developer, currently working for a company that delivers live s
 - 💬 Ask me about ...anything related to app development be it native or crossplatform.
 - ⚡ Fun fact: ...I have a dog that is scared of the wind 🤣
 - 📫 How to reach me: LinkedIn https://www.linkedin.com/in/eddy-garcia-5b7b9a97/
--                    Instagram https://www.instagram.com/kiribaty/
+- 📫 How to reach me: Instagram https://www.instagram.com/kiribaty/
 
 # Here is a video of me trying to explain what the cli is and how it works 💻
 [![Explaining Tech](https://i.postimg.cc/s29H0wjR/Ska-rmavbild-2020-11-05-kl-14-13-15.png)](http://www.youtube.com/watch?v=GpN9lMbD6pw&t "Explaining Tech")
