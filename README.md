@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 -->
 
 # Who am I? 🤓
-I'm a mobile app developer, currently working for a company that delivers live stream applications for its customers. Other than that I'm an IT enthusiast and life long learner, constantly looking for new challenges and ways to improve my skills. I have a 2 year polytechnic degree in Applications Development where the main focus was Java/Swift for the Android/iOS platforms. I've done 6 months internship with a Swedish startup named Tiptapp where I mainly worked with React Native. And most recently I complete an onsite Full stack JavaScript Bootcamp at School of applied technologies(SALT) where we worked a lot with technologies such as react, react native, redux as well as express, mongoDB and REST in a Nodejs environment. All while practicing git, TDD, mob programming and agile work methods.
+I’m a Mobile App Developer with a passion for creating efficient, user-friendly, and scalable cross-platform applications. Over the past 5 years, I’ve gained extensive experience working with React Native, TypeScript, and modern development practices, delivering high-quality solutions for iOS and Android platforms.
+
+My journey began with a 2-year Polytechnic Degree in Application Development, focusing on Java and Swift, followed by a 6-month internship at Tiptapp, where I built my foundation in React Native. I later completed a Fullstack JavaScript Bootcamp at SALT, deepening my knowledge in React, Node.js, Redux, and MongoDB, all while practicing Agile methodologies, TDD, and mob programming.
 
 - 🔭 I’m currently working on ...white label mobile and TV applications using React Native.
 - 🌱 I’m currently learning ...more about Fastlane, Bitrise in order to automate the build and deployment of our iOS/Android apps.
